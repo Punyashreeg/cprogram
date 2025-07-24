@@ -10,6 +10,8 @@ bool isPrime(int n) {
 }
 int main(void) {
 	 int num;
+	  printf("Enter a positive integer: ");
+    scanf("%d", &num);
 
 ~
 ~
