@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 bool isPrime(int n) {
+	 if (n < 2) return false;
 
 ~
 ~
