@@ -12,6 +12,8 @@ int main(void) {
 	 int num;
 	  printf("Enter a positive integer: ");
     scanf("%d", &num);
+     if (isPrime(num))
+        printf("%d is a prime number.\n", num);
 
 ~
 ~
